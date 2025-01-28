@@ -1,0 +1,34 @@
+{
+    "C152": {
+      "max_takeoff_weight": 757,  
+      "zero_fuel_weight": 500,    
+      "fuel_consumption": 25,     
+      "V1": 55,                   
+      "VR": 60,                   
+      "V2": 65                    
+    },
+    "C172": {
+      "max_takeoff_weight": 1111,
+      "zero_fuel_weight": 800,
+      "fuel_consumption": 30,
+      "V1": 60,
+      "VR": 65,
+      "V2": 70
+    },
+    "B738": {
+      "max_takeoff_weight": 79000,
+      "zero_fuel_weight": 50000,
+      "fuel_consumption": 2500,
+      "V1": 140,
+      "VR": 145,
+      "V2": 150
+    },
+    "A320": {
+      "max_takeoff_weight": 79000,
+      "zero_fuel_weight": 64300,
+      "fuel_consumption": 2500,
+      "V1": 140,
+      "VR": 145,
+      "V2": 150
+    }
+  }
